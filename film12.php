@@ -8,7 +8,7 @@ include_once 'header.php';
 </div>
 
 <h1><?php echo $title; ?></h1>
-<button onclick="likePost(9)">Curtir</button>
+<button onclick="likePost(12)">Curtir</button>
 <span id="likeCount1">0</span>
 
 <div class="trailer">
@@ -22,35 +22,52 @@ include_once 'header.php';
         <h4>Pontos positivos</h4>
         <ul>
             
-            <il>✅ Atuações: Cynthia Erivo e Ariana Grande foram amplamente elogiadas por suas interpretações de Elphaba e Galinda, respectivamente, trazendo profundidade e emoção aos personagens.</il><br>
-            <il>✅ Produção Visual: A direção de arte e os efeitos visuais foram destacados pela recriação vibrante e detalhada do mundo de Oz.</il><br>
-            <il>✅ Trilha Sonora: As adaptações das músicas originais do musical foram bem recebidas, com arranjos que respeitam a obra original enquanto introduzem novas nuances.</il><br>
+            <il>✅ Performance do Elenco: Destaque para a atuação de Cillian Murphy, que dá vida a um personagem complexo com intensidade, e Robert Downey Jr..</il><br>
+            <il>✅ Direção de Christopher Nolan: A narrativa não-linear e a abordagem visual única adicionam profundidade e impacto à história.</il><br>
+            <il>✅ Exploração de Dilemas Éticos: O filme aborda questões complexas sobre ciência, moralidade e as consequências da criação da bomba atômica.</il><br>
+            <il>✅ Trilha Sonora: A música de Ludwig Göransson complementa as emoções e aumenta a tensão ao longo do filme.</il><br>
+            <il>✅ Cinematografia: O uso de câmeras IMAX e filmagens práticas cria uma experiência visual imersiva.</il><br>
 
         </ul>
             <h4>Pontos negativos</h4>
         <ul>
-            <il>❌ Duração: Alguns críticos apontaram que o filme poderia ter sido mais conciso, com certas cenas se estendendo além do necessário.</il><br>
-            <il>❌ Ritmo: Houve menções de que o ritmo do filme varia, com transições abruptas entre momentos de alta energia e cenas mais lentas.</il><br>
+            <il>❌ Duração: Alguns espectadores acharam o filme longo demais, com um ritmo mais lento em certas partes.</il><br>
+            <il>❌ Foco Intenso no Protagonista: A narrativa é extremamente centrada em Oppenheimer, o que pode deixar outros personagens menos desenvolvidos.</il><br>
+            <il>❌ Temas Pesados: A profundidade dos dilemas morais pode ser desafiadora e emocionalmente exaustiva para alguns.</il><br>
+            <il>❌ Complexidade Narrativa: A estrutura não-linear pode ser confusa para quem não está acostumado com o estilo de Nolan.</il><br>
+
         </ul>
 
-        <p>No geral, "Wicked: Part One" é um filme que explora a origem das icônicas bruxas de Oz antes dos eventos de "O Mágico de Oz". Ele se concentra na história de Elphaba, uma jovem incompreendida com pele verde, que mais tarde se tornará a Bruxa Má do Oeste, e de sua amizade com Glinda, a futura Bruxa Boa do Sul. A trama aborda temas como aceitação, preconceito, ambição e as complexidades das escolhas morais, mostrando como eventos e decisões moldaram seus caminhos opostos.</p>
+        <p>**"Oppenheimer"** é como um poema trágico escrito com a tinta do tempo e os ecos da história. É um relato dos brilhos e sombras da mente humana, onde a genialidade dança com o peso da culpa, e cada escolha carrega uma melodia silenciosa de consequências eternas.
+
+A narrativa serpenteia como uma equação inacabada, explorando os paradoxos do criador e sua criação. A ciência, em sua forma mais pura, encontra o amor, o medo e a devastação, enquanto uma faísca de genialidade molda o destino de civilizações inteiras.
+
+É um espetáculo de luz e escuridão, onde as explosões na tela ecoam os conflitos internos de um homem atormentado pelo impacto do poder que ele desatou. O filme não apenas narra uma história, mas entalha um lembrete: o poder de criar e destruir repousa no mesmo coração humano.
+
+Seja como um poema visual ou uma canção melancólica do progresso, "Oppenheimer" é a colisão entre razão e moralidade, imortalizando em cada cena a fragilidade e a força que definem nossa existência..</p>
     </div>
 </div>
 
 <div class="elenco">
     <h2>Elenco principal</h2>
     <ol>
-        <il>Cynthia Erivo como Elphaba Thropp (a futura Bruxa Má do Oeste)</il><br>
+        <il>Cillian Murphy como J. Robert Oppenheimer</il><br>
 
-        <il>Ariana Grande como Galinda Upland (que se tornará Glinda, a Boa)xs</il><br>
+        <il>Emily Blunt como Katherine "Kitty" Oppenheimer, esposa de Oppenheimer</il><br>
 
-        <il>Jonathan Bailey como Fiyero Tigelaar</il><br>
+        <il>Matt Damon como General Leslie Groves, diretor militar do Projeto Manhattan</il><br>
 
-        <il>Ethan Slater como Boq</il><br>
+        <il>Robert Downey Jr. como Lewis Strauss, membro sénior da Comissão de Energia Atómica dos EUA</il><br>
 
-        <il>Michelle Yeoh como Madame Morrible</il><br>
+        <il>Florence Pugh como Jean Tatlock, psiquiatra e membro do Partido Comunista</il><br>
 
-        <il>Jeff Goldblum como O Mágico de Oz</il><br>
+        <il>Josh Hartnett como Ernest Lawrence, físico vencedor do Prémio Nobel</il><br>
+
+        <il>Casey Affleck como Boris Pash, oficial de contra-espionagem</il><br>
+
+        <il>Rami Malek como David Hill, físico</il><br>
+
+        <il>Kenneth Branagh como Niels Bohr, físico dinamarquês</il><br>
     </ol>
 </div>
 
